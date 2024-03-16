@@ -15,7 +15,7 @@ void main(){
     print("average");
   }
   else{
-    print("enter a valid grade");
+    print("invalid ");
   }
 }
 
